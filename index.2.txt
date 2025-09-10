@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>About page</title>
+</head>
+<body> 
+   <h1>About this Website</h1>
+   <p>This is the second HTML page</p>
+   <a href="index.html">Go to Home page</a>
+</body>
+</head>
+
